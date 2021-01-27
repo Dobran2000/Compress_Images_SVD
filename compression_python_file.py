@@ -1,6 +1,5 @@
 import numpy as np
 from PIL import Image
-from sklearn.decomposition import TruncatedSVD
 import numpy.linalg
 import imageio
 import time
